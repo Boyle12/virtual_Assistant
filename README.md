@@ -1,2 +1,1 @@
-# Internet-status-checker
-Internet status checker
+virtual assistant
